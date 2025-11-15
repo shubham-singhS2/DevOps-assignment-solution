@@ -46,7 +46,7 @@ Create a single CloudFront distribution to deliver content from two S3 website o
 
 ---
 
-## ✅ Verification
+## ✅ Verification (Stop CDN to save cost in AWS)
 
 | URL of Cloudfront CDN                         | Output                            |
 | --------------------------------------------- | --------------------------------- |
